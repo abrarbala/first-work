@@ -1,0 +1,14 @@
+.headingbar{height: 70px;background-color: #96B6C5;
+}
+.headingbar ul li{list-style: none;display: inline-block;margin-top: 30px;margin-left: 110px;}
+
+.sidebar{height: 250px;width: 200px;background-color: #ADC4CE;display: inline-block;}
+.sidebar ul li{list-style: none;display: list-item;margin-top: 20px}
+.middle{float: right;height: 250px;width: 808px;background-color:#EEE0C9}
+.middle p{font-size: 20px;margin-left: 30px;}
+
+.footer{background-color:#F1F0E8 ;height: 230px;margin-bottom: 20px;
+
+
+
+}
